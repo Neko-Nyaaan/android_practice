@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ToDos</string>
-    <string name="input_task">Task</string>
+    <string name="edit_message">Task</string>
     <string name="button_create">Create</string>
 </resources>
